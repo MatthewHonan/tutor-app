@@ -4,7 +4,8 @@ School project focused on providing students with an easy way to make appointmen
 
 ## Login Screen
 
-In the project directory, you can run:
+![image](https://github.com/MatthewHonan/tutor-app/assets/118576766/cdd8ba36-b998-40db-8523-b5fe9c204515)
+
 
 ### `npm start`
 
