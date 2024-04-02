@@ -1,0 +1,41 @@
+.SignUpForm {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .SignUpForm form {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .SignUpForm h2 {
+    margin-bottom: 20px;
+  }
+  
+  .SignUpForm label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .SignUpForm input,
+  .SignUpForm select,
+  .SignUpForm textarea {
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .SignUpForm textarea {
+    resize: vertical;
+  }
+  
+  .SignUpForm button {
+    background-color: #008CBA;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,73 @@
+.StudentHome {
+  text-align: center;
+  padding: 20px;
+}
+
+.tutorList {
+  margin-bottom: 20px;
+}
+
+.tutorList ul {
+  list-style: none;
+  padding: 0;
+}
+
+.tutorList li {
+  margin-bottom: 10px;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+.tutorList li .tutorProfilePicture {
+  width: 150px;
+  height: 150px;
+  border-radius: 10%;
+  overflow: hidden;
+  margin-left: 600px; /* Move the profile picture to the right */
+}
+
+.tutorList li .tutorProfilePicture img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.tutorList li .tutorInfo {
+  flex-grow: 1;
+}
+
+.tutorList li .tutorInfo p {
+  margin: 5px 0;
+}
+
+.tutorList button {
+  background-color: #008CBA;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  margin-right: 600px; /* Move the button to the left */
+}
+
+.successMessage {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.accountButton {
+  background-color: #008CBA;
+  color: #fff;
+  padding: 10px 30px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-left: 20px;
+}

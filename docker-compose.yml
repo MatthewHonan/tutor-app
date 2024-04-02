@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  db:
+    build: .
+    volumes:
+      - ./data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: admin
+      MYSQL_DATABASE: tutor_db
+    ports:
+      - "3306:3306"
