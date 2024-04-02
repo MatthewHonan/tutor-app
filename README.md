@@ -2,22 +2,23 @@
 
 School project focused on providing students with an easy way to make appointments with tutors.
 
-## Login Screen
+### Login Screen
 
-In the project directory, you can run:
+![image](https://github.com/MatthewHonan/tutor-app/assets/118576766/bfec9ae7-1797-4d2b-8bcd-885da714ca70)
 
-### `npm start`
+Here students and tutors alike can log into the application or make an account.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Account Creation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://github.com/MatthewHonan/tutor-app/assets/118576766/45e5c253-f015-4cfd-b6ad-ed5201126323)
 
-### `npm test`
+Here students and tutors can create their username and password, along with inputting all the other necessary information to complete the account.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Scbeduling an appointment
+
+![image](https://github.com/MatthewHonan/tutor-app/assets/118576766/765382cc-c27d-4ba2-afc5-1d120895b566)
+
+Once logged in, students can see a list of available tutors. Information such as distance from the student, the name of the tutor, the subject matter, a rating out of five points, and the time slot of availability is displayed so a student can choose what is best suitted for their needs. 
 
 ### `npm run build`
 
