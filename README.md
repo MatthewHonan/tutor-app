@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+School project focused on providing students with an easy way to make appointments with tutors.
 
-## Available Scripts
+## Login Screen
 
 In the project directory, you can run:
 
